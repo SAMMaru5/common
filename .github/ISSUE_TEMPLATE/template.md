@@ -2,8 +2,9 @@
 name: 회의록
 about: 회의록
 title: "[회의록]"
-labels: docs
-assignees: ""
+labels: ''
+assignees: ''
+
 ---
 
 ## ✍ 논의 사항
