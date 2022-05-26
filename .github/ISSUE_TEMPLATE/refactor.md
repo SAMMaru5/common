@@ -2,7 +2,7 @@
 name: REFACTOR
 about: refactor
 title: "[REFACTOR]"
-labels: ''
+labels: REFACTOR
 assignees: ''
 
 ---

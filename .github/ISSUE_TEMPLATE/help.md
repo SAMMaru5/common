@@ -1,8 +1,8 @@
 ---
 name: HELP
 about: 도움 요청
-title: ''
-labels: ''
+title: "[HELP]"
+labels: "\U0001F4E2HELP"
 assignees: ''
 
 ---

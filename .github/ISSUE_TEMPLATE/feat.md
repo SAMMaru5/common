@@ -2,7 +2,7 @@
 name: FEAT
 about: 기능 추가
 title: "[FEAT]"
-labels: ''
+labels: "⚙FEAT"
 assignees: ''
 
 ---
